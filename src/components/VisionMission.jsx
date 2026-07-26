@@ -19,7 +19,7 @@ function VisionMission() {
         {/* Cards */}
         <div className="grid md:grid-cols-2 gap-10">
           {/* Vision */}
-          <div className="bg-gradient-to-br from-red-700 to-red-900 text-white rounded-3xl p-10 shadow-xl hover:-translate-y-2 transition duration-300">
+          <div className="bg-linear-to-br from-red-700 to-red-900 text-white rounded-3xl p-10 shadow-xl hover:-translate-y-2 transition duration-300">
             <FaEye className="text-5xl text-yellow-400 mb-6" />
 
             <h3 className="text-3xl font-bold mb-6">Our Vision</h3>
